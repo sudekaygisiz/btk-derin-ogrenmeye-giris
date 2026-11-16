@@ -3,9 +3,7 @@
 #derin-öğrenme #yöntemler
 
 ## ANN – Yapay Sinir Ağları
-Biyolojik sinir ağlarını taklit eden temel model. Her nöron bir sonraki katmandaki tüm nöronlara bağlıdır.
-
-👉 Ayrıntılı not: [[Yapay Sinir Ağları (ANN)]]
+Beyindeki sinir ağlarını taklit eden model. Notlarım: [[Yapay Sinir Ağları (ANN)]]
 
 ---
 ← [[Derin Öğrenme Kavramı]] | 🏠 [[Giriş]]
