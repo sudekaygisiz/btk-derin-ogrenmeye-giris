@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ANN, CNN, RNN, LSTM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ANN, CNN, RNN, LSTM"
             }
           }
         ]
@@ -187,15 +187,27 @@
   },
   "active": "e35e09708e7b7fbf",
   "lastOpenFiles": [
-    "Derin Pekiştirmeli Öğrenme ve Transformers.md",
-    "ResNets, Derin İnanç Ağları (DBNs).md",
-    "README.md",
-    "Giriş.md",
-    "Yöntemler/Evrişimsel Sinir Ağları (CNN).md",
     "Yöntemler/Yapay Sinir Ağları (ANN).md",
     "ANN, CNN, RNN, LSTM.md",
+    "Derin Öğrenme Kavramı.md",
+    "Giriş.md",
+    "Görseller/Loss - Epoch.png",
+    "Görseller/Nasıl Öğrenir (işaretli).png",
+    "Görseller/Bileşenleri (işaretli).png",
+    "Görseller/Ekran görüntüsü 2026-11-16 190301.png",
+    "Görseller/1_ZXAOUqmlyECgfVa81Sr6Ew.webp",
+    "Görseller/Onaylanmayan 893727.crdownload",
+    "Görseller/Ekran görüntüsü 2026-11-16 190123.png",
+    "Görseller/ANN Öğrenme (işaretli).png",
+    "Görseller/Architecture.webp",
+    "Görseller/Onaylanmayan 106603.crdownload",
+    "Görseller/How-a-neural-network-works.png",
+    "Görseller/Onaylanmayan 556910.crdownload",
+    "README.md",
+    "Derin Pekiştirmeli Öğrenme ve Transformers.md",
+    "ResNets, Derin İnanç Ağları (DBNs).md",
+    "Yöntemler/Evrişimsel Sinir Ağları (CNN).md",
     "Çekişmeli Üretici Ağlar (GANs).md",
-    "Derin Öğrenme Kullanım Alanları, Ürünleri, Araçları, Gerçek Dünya Uygulamaları.md",
-    "Derin Öğrenme Kavramı.md"
+    "Derin Öğrenme Kullanım Alanları, Ürünleri, Araçları, Gerçek Dünya Uygulamaları.md"
   ]
 }
