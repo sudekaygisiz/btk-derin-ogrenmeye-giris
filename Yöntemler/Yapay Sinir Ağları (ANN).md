@@ -105,4 +105,4 @@ Hoca modeli eğitirken loss'un nasıl değiştiğini bir grafikle gösterdi:
 - Kısaca hedefimiz: **loss ↘** (loss'u düşürmek).
 
 ---
-← [[ANN, CNN, RNN, LSTM]] | 🏠 [[Giriş]]
+← [[ANN, CNN, RNN, LSTM]] | 🏠 [[Giriş]] | Sonraki → [[Evrişimsel Sinir Ağları (CNN)]]
