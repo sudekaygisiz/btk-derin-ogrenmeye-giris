@@ -87,7 +87,7 @@ Derin öğrenme **çok büyük hesaplama gücü** istiyor.
 Derste şu yöntemlerin listesi verildi. İşledikçe notlarını ekleyeceğim:
 
 - [[Yapay Sinir Ağları (ANN)]]
-- Evrişimsel Sinir Ağları (CNN)
+- [[Evrişimsel Sinir Ağları (CNN)]]
 - Yinelemeli Sinir Ağları (RNN)
 - Uzun Kısa Süreli Bellek (LSTM)
 - Çekişmeli Üretici Ağlar (GANs)
